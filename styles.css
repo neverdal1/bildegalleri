@@ -36,13 +36,9 @@ aside {
   float: left;
 }
 
-.galleri {
-  text-align: center;
-  margin: 20px auto;
-}
 
-.galleri img {
-  width: 200px;
+.galleri {
+  /*width: 200px;*/
   margin: 10px;
 }
 
@@ -65,4 +61,9 @@ footer button {
 
 footer button:hover {
   background-color: #ccc;
+}
+.img{
+  width: 200px;
+  height: 300px;
+
 }
