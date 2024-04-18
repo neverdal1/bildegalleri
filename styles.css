@@ -42,7 +42,8 @@ aside {
 
 
 .galleri {
-  /*width: 200px;*/
+  flex-wrap: wrap;
+  width: 200px
   margin: 10px;
 }
 
